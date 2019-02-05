@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\dialog.o
+./release\incthr.o
+./release\outgthr.o
+./release\impbuffer.o
+./release\qrc_icons.o
+./release\moc_dialog.o
+./release\moc_incthr.o
+./release\moc_outgthr.o
+./release\moc_impbuffer.o
+);
