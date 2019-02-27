@@ -532,7 +532,7 @@ public:
         pushButtonNum0->setText(QApplication::translate("MainWindow", "0", Q_NULLPTR));
         pushButtonNumClr->setText(QApplication::translate("MainWindow", "CLR", Q_NULLPTR));
         lineEditIp->setText(QString());
-        lineEditIp->setPlaceholderText(QApplication::translate("MainWindow", "Enter IP To Call", Q_NULLPTR));
+        lineEditIp->setPlaceholderText(QApplication::translate("MainWindow", "Enter IP To Call", Q_NULLPTR));//Q_NULLPTR
     } // retranslateUi
 
 };
