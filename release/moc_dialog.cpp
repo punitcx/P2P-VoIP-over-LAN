@@ -3,7 +3,7 @@
 **
 ** Created by: The Qt Meta Object Compiler version 67 (Qt 5.6.3)
 **
-** WARNING! All changes made in this file will be lost!
+** WARNING! All changes made in this file will be lost! 
 *****************************************************************************/
 
 #include "../../bytearraysender/dialog.h"
