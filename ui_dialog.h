@@ -5,7 +5,7 @@
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
-
+ 
 #ifndef UI_DIALOG_H
 #define UI_DIALOG_H
 
