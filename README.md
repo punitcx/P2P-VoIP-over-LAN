@@ -6,3 +6,4 @@ This method costs much since it requires installing intercom cable, and also pro
 
 This application uses microphone/speakers of laptop or mobile devices for communication using Local Area Network(LAN)/WLAN without using Internet Connection.
 Since this application uses no central server, it provides Peer-to-Peer connectivity between devices for faster communication.
+Improvements/Feature Suggestions are always welcome.
